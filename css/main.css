@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+
+body {
+    font-family: Lora, serif;
+    background-color: #6AB7A8;
+}
+
+div {
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    height: 600px;
+    margin-top: 200px;
+    display: none;
+}
+
+h1 {
+    font-size: 500%;
+    font-weight: bold;
+}
+
+p {
+    font-size: 300%;
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+span.hilite {
+    color: #F0CE68;
+        -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px black;
+}
+
+.fa {
+    color: #F09F68 ;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 1px black;
+    margin: 1em .5em 0 .5em;
+}
+
+.fa-envelope {
+    color: #F06868;
+}
+
+.fa-twitter {
+    color: #F0CE68;
+}
+
+.signature {
+    font-family: "Rock Salt", cursive;
+    color: #A1D9CE;
+    -webkit-text-stroke: 1px black;
+    font-size: 400%;
+}
